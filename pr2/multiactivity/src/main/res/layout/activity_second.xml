@@ -9,7 +9,7 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:theme="@style/Theme.Rumireakrotovpractice2.AppBarOverlay">
+        android:theme="@style/Theme.Rumireautukinapractice2.AppBarOverlay">
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
-        app:popupTheme="@style/Theme.Rumireakrotovpractice2.PopupOverlay" />
+        app:popupTheme="@style/Theme.Rumireautukinapractice2.PopupOverlay" />
 
     <View
         android:id="@+id/view4"
